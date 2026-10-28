@@ -2,7 +2,7 @@
 
 ## 課堂繳交
 ## 程式碼使用gemini幫我寫，readme是利用Gemini說明再自己寫
-## Gemini連結:https://share.gemini.google/iGSPdSQJwYY7
+## Gemini連結:https://share.gemini.google/ngyiNJCDuyxD
 -------------------------------------------------------------
 
 ### 什麼是旅行推銷員問題 (TSP)？
