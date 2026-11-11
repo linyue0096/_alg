@@ -2,7 +2,7 @@
 
 ## 課堂繳交
 ## ## 程式碼使用gemini幫我寫，readme是利用Gemini說明再自己寫
-## Gemini連結:https://share.gemini.google/pbpPxfzuktnC
+## Gemini連結:https://share.gemini.google/AchDkUYFs2Ou
 -------------------------------------------------------------
 
 ### 什麼是搜尋與尋路問題？
