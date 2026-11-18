@@ -1,4 +1,4 @@
-# 遞迴，函數式編程， Lambda Calculus
+# 遞迴，函數式編程
 
 ## 課堂繳交
 ## 程式碼使用gemini幫我寫，readme是查維基百科在用gemini整理資料再改自己撰寫

@@ -1,4 +1,4 @@
-# 高斯-賽德爾迭代法 (Gauss-Seidel Method)
+# 高斯迭代法
 
 ## 課堂繳交
 ## 程式碼使用gemini幫我寫，readme是利用Gemini說明再自己寫

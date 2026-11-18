@@ -1,4 +1,4 @@
-# Lambda Calculus 直譯器與正規歸約器 (Lambda Calculus Interpreter)
+# Lambda Calculus 
  
 ## 課堂繳交
 ## 程式碼使用 Gemini 協助撰寫，README 根據老師的AI連結與整理所撰寫

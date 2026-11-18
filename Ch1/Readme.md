@@ -1,4 +1,4 @@
-# $2^n$ 的四種演算法比較與效能分析
+# 查表法
 
 ## 程式碼使用gemini幫我寫，readme是Gemini說明資料理解再自己改寫
 ## Gemini連結:https://share.gemini.google/pRT25xuuQmm0
