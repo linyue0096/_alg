@@ -1,7 +1,7 @@
 # 動態規則與文字算法
 
 ## 課堂繳交
-## 程式碼使用gemini幫我寫，readme是利用Gemini說明再自己寫
+## 程式碼使用AI studio幫我寫，readme是利用Gemini說明再自己寫
 ## AI studio連結:https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%2214anjxuXSC7XH-q_8V8TamG8ZDT4injWh%22%5D,%22action%22:%22open%22,%22userId%22:%22116753612129210471976%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing
 -------------------------------------------------------------
 
